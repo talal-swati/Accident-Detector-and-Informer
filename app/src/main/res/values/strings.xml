@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accident Informer</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="send_report">Send Report</string>
+</resources>
