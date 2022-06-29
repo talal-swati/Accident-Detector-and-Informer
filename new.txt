@@ -1,0 +1,1 @@
+Further changing the app in order to bring it towards react native side
